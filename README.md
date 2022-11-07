@@ -1,2 +1,9 @@
 # MINTR-VR
-MINTR is an online virtual game which is similar to the minecraft and has embedded NFT  token blocks with normal cube of games.user can buy the nft by redirecting from game to site which is replica of open-sea nft marketplace and can buy or sell nft tokens there.
+We are planning to create an online 3D-VR game (base idea of
+minecraft) using React along with its dependencies such as React
+fibre and React Drei. We will integrate the game with a locally
+created NFT marketplace which will work on blockchain’s ethereum
+smart contract. Players would be allowed to buy/sell NFTs of their
+choice.
+
+path:-
