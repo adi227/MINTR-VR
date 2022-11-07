@@ -1,27 +1,35 @@
-# Next.js + Tailwind CSS Example
+We are planning to create an online 3D-VR game (base idea of
+minecraft) using React along with its dependencies such as React
+fibre and React Drei. We will integrate the game with a locally
+created NFT marketplace which will work on blockchain’s ethereum
+smart contract. Players would be allowed to buy/sell NFTs of their
+choice.
+The game, if created successfully, could be proved to be a great way
+of social interaction. The game could be played directly through
+browser without any need of high-end wifi. Hence, interacting with a
+greater number of audience.
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+path:-cd mintr cd game npm install
+#npm start
+#cd studio sanity start
+#(new terminal)yarn dev
 
-## Deploy your own
+Player's Control:
+Use:
+W:To move forward
+S:To move backward
+D:To move right
+A:To move left
+Digit-1: For Texture 1
+Digit-2: For Texture 2
+Digit-3: For Texture 3
+Digit-4: For Texture 4
+Digit-5: For Texture 5
+Digit-6: For Texture 6
+Digit-7: For Texture 7
+Digit-8: For Texture 8
+Digit-9: For Texture 9
+Digit-0: For Texture 10
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+Happy Mining..!
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
