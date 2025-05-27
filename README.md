@@ -6,4 +6,4 @@ created NFT marketplace which will work on blockchain’s Binance
 smart testing Network. Players would be allowed to buy/sell NFTs of their
 choice.
 
-path:-
+path:-All source code and the dataset used for this project are organized and stored in the master branch of this repository.
